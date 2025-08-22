@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 
+## I am Ailyn Joy Ilagan, currently studying BSIT on LSPU Sta. cruz campus.
+## 🔭 Learning Phython language
+## 😄 Begginer in Phyton
+## 💬 gmail: ilaganailynjoy@gmail.com
 
 <!--
 **ilaganailynjoy/ilaganailynjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
